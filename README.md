@@ -16,7 +16,7 @@ Built with **Streamlit** for an interactive web interface.
 ---
 
 ## 🖥 Live Demo
-Deploy easily on [Streamlit Cloud](https://share.streamlit.io).
+Deploy easily on [Streamlit Cloud](https://marketplace-price-suggestor-7doubaoggruteug4r97pse.streamlit.app/).
 
 ---
 
