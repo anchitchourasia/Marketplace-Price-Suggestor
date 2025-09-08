@@ -22,10 +22,10 @@ Deploy easily on [Streamlit Cloud](https://share.streamlit.io).
 
 ## ⚙️ Setup Instructions
 
-### 1️⃣ Clone Repository
-```bash
+1️⃣ Clone Repository
 git clone https://github.com/YOUR-USERNAME/price-suggestor.git
-cd price-suggestor
+cd price-suggestor```bash.
+
 2️⃣ Create .env File
 
 Create a file named .env in the project root and add:
